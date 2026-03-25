@@ -9,4 +9,4 @@
 
 <h3>Mas no fim...</h3>
 
-<p>isso aqui é so por aprendizado então no final do dia vai ter código sujo, vai ter coisa errada, mas to aprendendo.</p>
+<p>isso aqui é so por aprendizado então no final do dia vai ter código sujo,mas aceito feedback e ideias, rumo ao senior!.</p>
