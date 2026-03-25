@@ -1,6 +1,6 @@
 <h2>Arquivos de Programação e testes pra brincar (e talvez outros tbm)</h2>
 <p>se você ta lendo isso é pq abriu meu repositorio de códigos aleatórios. Aqui tem basicamente a maioria das minhas práticas que eu fiz de bobeira, então aproveita, testa meus codígos, e se quiser fica a vontade pra dar um feedback ou ideia!</p>
-  <img src="[https://hermes.dio.me/articles/cover/1ee9c50a-fccd-4ec8-b57a-6a592a157a6d.png](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhow-did-lain-become-a-pop-and-aesthetic-icon-v0-7fs5lbqx7ttf1.jpeg%3Fauto%3Dwebp%26s%3D9bbf428eeb4411b2572fb682afd6e38c439ff7f6)" >
+  <img src="https://images.squarespace-cdn.com/content/v1/5017c2ace4b01a67d6bdc30c/11ff7cc4-1dc3-4fa0-8c73-f3278e76311b/Screenshot_20250406_223345.jpg" >
   
 <h3>aqui você encontrará:</h3>
 <ul>
