@@ -19,3 +19,8 @@
 <p>isso aqui é so por aprendizado então no final do dia vai ter código sujo,mas aceito feedback e ideias, rumo ao senior!</p>
 
 
+<form>
+    <label>nome</label>
+    <input type="text">
+    <button>Enviar</button>
+</form>
