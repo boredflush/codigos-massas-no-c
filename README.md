@@ -10,3 +10,5 @@
 <h3>Mas no fim...</h3>
 
 <p>isso aqui é so por aprendizado então no final do dia vai ter código sujo,mas aceito feedback e ideias, rumo ao senior!</p>
+
+  <img src="https://hermes.dio.me/articles/cover/1ee9c50a-fccd-4ec8-b57a-6a592a157a6d.png" >
