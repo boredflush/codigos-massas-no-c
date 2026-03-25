@@ -2,6 +2,7 @@
 <p>se você ta lendo isso é pq abriu meu repositorio de códigos aleatórios. Aqui tem basicamente a maioria das minhas práticas que eu fiz de bobeira, então aproveita, testa meus codígos, e se quiser fica a vontade pra dar um feedback ou ideia!</p>
 
 <h3>Foto Massa</h3>
+ <p align="center">
   <img src="https://frutigeraeroarchive.org/images/wallpapers/materialdictionary149/materialdictionary149_47.jpg" >
   <a href="https://frutigeraeroarchive.org/">Ir no Site Da Foto</a>
   
